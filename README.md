@@ -4,6 +4,8 @@ The Dream Team working on Neural Networks
 Resources:
 //some data sets
 https://www.ee.columbia.edu/~dpwe/sounds/tidigits/
+//some reading on a study using digit recognition
+https://catalog.ldc.upenn.edu/docs/LDC93S10/tidigits.readme.html
 
 
 
