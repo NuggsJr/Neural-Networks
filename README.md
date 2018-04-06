@@ -18,3 +18,7 @@ http://www.cs.bham.ac.uk/~jxb/NN/nn.html
 https://www.youtube.com/watch?v=aircAruvnKk&t=3s
 //Giant_Neural playlist
 https://www.youtube.com/watch?v=ZzWaow1Rvho
+
+
+
+https://cs.stanford.edu/people/eroberts/courses/soco/projects/neural-networks/index.html
