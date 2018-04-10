@@ -22,3 +22,8 @@ https://www.youtube.com/watch?v=ZzWaow1Rvho
 
 
 https://cs.stanford.edu/people/eroberts/courses/soco/projects/neural-networks/index.html
+
+
+https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a
+
+https://www.youtube.com/watch?v=An5z8lR8asY
